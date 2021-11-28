@@ -2,7 +2,7 @@
 void print_function( char letter );
 int ctr;
 int counter;
-int mainopdracht( void )
+int rumme( void )
 {
 char star = '*';
 char dash = '-';
