@@ -1,1 +1,1 @@
-void rumme(void);
+int rumme(void);
