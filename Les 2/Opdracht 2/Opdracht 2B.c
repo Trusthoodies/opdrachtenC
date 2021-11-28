@@ -1,7 +1,6 @@
-
 #include <stdio.h>
-#define _USE_MATH_DEFINES
 #include <math.h>
+#define PI 3.142857
 
 void omtrek(float *gegevendiameter);
 
@@ -21,5 +20,5 @@ int main()
 
 void omtrek(float *gegevendiameter)
 {
-    *gegevendiameter = *gegevendiameter * M_PI;
+    *gegevendiameter = *gegevendiameter * PI;
 }
