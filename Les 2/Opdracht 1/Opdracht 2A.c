@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "koppeling.h"
+#include "Opdracht1B.h"
 int main()
 {
     float optie;
@@ -19,7 +19,7 @@ int main()
     }
      else
     {
-        printf("Deze keuse is niet toegestaan");
+        
     }
     
     return(0);
