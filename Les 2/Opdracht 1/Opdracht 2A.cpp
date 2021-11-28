@@ -11,7 +11,7 @@ int main()
     }
     else if(optie == 2)
     {
-        main();
+        rumme();
     }
     else if(optie== 3)
     {
